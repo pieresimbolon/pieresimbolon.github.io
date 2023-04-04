@@ -16,12 +16,12 @@ body {
 .box {
   width: 400px;
   background: rgb(28, 28, 28);
-  padding: 38px;
+  padding: 22px;
   backdrop-filter: blur(3px);
   text-align: center;
   margin: auto;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 0.1%;
+  margin-bottom: 0.1%;
   border-radius: 5%;
   color: white;
   font-family: "Century Gothic", sans-serif;
